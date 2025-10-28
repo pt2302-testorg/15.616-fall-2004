@@ -2,6 +2,7 @@
 content_type: resource
 description: Homework assignment on legal issues in business.
 file: /courses/15-616-innovative-businesses-and-breakthrough-technologies-the-legal-issues-fall-2004/59507d9e7e9215bc58df30db8b29aa3f_ex1.pdf
+file_size: 135298
 file_type: application/pdf
 learning_resource_types:
 - Assignments
